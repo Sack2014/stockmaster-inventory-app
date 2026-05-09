@@ -191,4 +191,4 @@ StockMaster Inventory App is a Full Stack application built with Spring Boot and
 
 ## Author
 
-Created as a portfolio project for a Full Stack Developer profile.
+Faber Palacio
